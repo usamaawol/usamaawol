@@ -85,7 +85,12 @@ I keep only selected repositories public. More of my work and experience is avai
 
 ## Languages
 
-Afaan Oromo · English · Amharic · Arabic
+| Language | Proficiency | Level |
+|:--|:--|:--:|
+| 🇪🇹 Afaan Oromo | Native | ![100%](https://img.shields.io/badge/100%25-Native-2E8B57?style=for-the-badge) |
+| 🇬🇧 English | Fluent | ![80%](https://img.shields.io/badge/80%25-Fluent-2E8B57?style=for-the-badge) |
+| 🇸🇦 Arabic | Medium | ![85%](https://img.shields.io/badge/85%25-Medium-DAA520?style=for-the-badge) |
+| 🇪🇹 Amharic | Basic | ![50%](https://img.shields.io/badge/50%25-Basic-4682B4?style=for-the-badge) |
 
 ## Currently Exploring
 
