@@ -98,4 +98,23 @@ AI-powered applications, intelligent automation, conversational AI, and practica
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usamaawol&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://streak-stats.demolab.com?user=usamaawol&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaawol&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+  </picture>
+</p>
+
 <p align="center"><i>Build with purpose. Learn continuously. Create meaningful impact.</i></p>
