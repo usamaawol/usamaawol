@@ -29,7 +29,7 @@ I work across the product lifecycle: user interfaces, backend services, database
 
 ## Technology Stack
 
-### Frontend & Design
+### Frontend, Web & Design
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -50,8 +50,13 @@ I work across the product lifecycle: user interfaces, backend services, database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
+### Mobile Development & PWA
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
+
 ### AI Integration & APIs
-[![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+[![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white)](https://openrouter.ai/)
 [![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
 [![NVIDIA](https://img.shields.io/badge/NVIDIA_AI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://build.nvidia.com/)
@@ -96,8 +101,7 @@ I keep only selected repositories public. More of my work and experience is avai
 
 - AI-powered application development and intelligent automation.
 - Chatbot AI integration and AI-powered features.
-- Mobile application development with **Flutter** and **Kotlin**.
-- Building cross-platform and native mobile experiences.
+- Deepening my skills in **Flutter** and **Kotlin** for cross-platform and native mobile development.
 - Combining AI capabilities with full-stack applications and Progressive Web Apps (PWAs).
 
 ## Connect
