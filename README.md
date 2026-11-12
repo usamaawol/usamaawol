@@ -98,10 +98,4 @@ AI-powered applications, intelligent automation, conversational AI, and practica
 
 ---
 
-## GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-</p>
-
 <p align="center"><i>Build with purpose. Learn continuously. Create meaningful impact.</i></p>
