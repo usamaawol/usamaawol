@@ -89,7 +89,11 @@ Afaan Oromo · English · Amharic · Arabic
 
 ## Currently Exploring
 
-AI-powered applications, intelligent automation, conversational AI, and practical ways to combine AI with full-stack and PWA development.
+- AI-powered application development and intelligent automation.
+- Chatbot AI integration and AI-powered features.
+- Mobile application development with **Flutter** and **Kotlin**.
+- Building cross-platform and native mobile experiences.
+- Combining AI capabilities with full-stack applications and Progressive Web Apps (PWAs).
 
 ## Connect
 
