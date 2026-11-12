@@ -1,7 +1,9 @@
+<p align="right"><a href="https://www.upwork.com/freelancers/~0131b70c822dd1460d?mp_source=share"><img src="https://img.shields.io/badge/HIRE_ME_ON_UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a></p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/usamaawol/usamaawol/main/github-banner.png" alt="Usama Awol — Full-Stack Developer" width="100%" /></p>
 
 <h1 align="center">Usama Awol</h1>
-<h3 align="center">Full-Stack Developer | AI Integration | Progressive Web Apps</h3>
+<h3 align="center">Full-Stack Developer | Web Application Development</h3>
 <p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a> · <a href="https://t.me/UATech1">Telegram</a></p>
 
 ---
@@ -50,9 +52,7 @@ I work across the product lifecycle: user interfaces, backend services, database
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### Mobile Development & PWA
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+### Progressive Web Apps
 [![PWA](https://img.shields.io/badge/Progressive_Web_App-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/explore/progressive-web-apps)
 
 ### AI Integration & APIs
@@ -83,6 +83,7 @@ I work across the product lifecycle: user interfaces, backend services, database
 - ShopKeepers
 - Golden Akhira Builder
 - Type Racer
+- [Go Project Hub](https://github.com/usamaawol/go-project-hub)
 - Progressive Web Applications
 - Cursor Hackathon collaboration
 
@@ -101,8 +102,7 @@ I keep only selected repositories public. More of my work and experience is avai
 
 - AI-powered application development and intelligent automation.
 - Chatbot AI integration and AI-powered features.
-- Deepening my skills in **Flutter** and **Kotlin** for cross-platform and native mobile development.
-- Combining AI capabilities with full-stack applications and Progressive Web Apps (PWAs).
+- Strengthening my full-stack development skills across frontend, backend, databases, and deployment.
 
 ## Connect
 
