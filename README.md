@@ -1,6 +1,3 @@
-<!-- Replace github-banner.png with the uploaded banner file in this repository -->
-<p align="center"><img src="./github-banner.png" alt="Usama Awol — Full-Stack Developer" width="100%" /></p>
-
 <h1 align="center">Usama Awol</h1>
 <h3 align="center">Full-Stack Developer | AI Integration | Progressive Web Apps</h3>
 <p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a> · <a href="https://t.me/UATech1">Telegram</a></p>
