@@ -3,7 +3,7 @@
 
 <h1 align="center">Usama Awol</h1>
 <h3 align="center">Full-Stack Developer | AI Integration | Progressive Web Apps</h3>
-<p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a> · <a href="mailto:">Email</a></p>
+<p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a></p>
 
 ---
 
