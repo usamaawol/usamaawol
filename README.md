@@ -101,12 +101,12 @@ AI-powered applications, intelligent automation, conversational AI, and practica
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaawol&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usamaawol&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics card" />
   <img src="https://streak-stats.demolab.com?user=usamaawol&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaawol&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaawol&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
