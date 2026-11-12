@@ -3,7 +3,7 @@
 
 <h1 align="center">Usama Awol</h1>
 <h3 align="center">Full-Stack Developer | AI Integration | Progressive Web Apps</h3>
-<p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a></p>
+<p align="center"><a href="https://usamaawol.pro.et">Portfolio</a> · <a href="https://www.linkedin.com/in/usama-awol">LinkedIn</a> · <a href="https://t.me/UATech1">Telegram</a></p>
 
 ---
 
@@ -97,22 +97,14 @@ AI-powered applications, intelligent automation, conversational AI, and practica
 - Portfolio: https://usamaawol.pro.et
 - LinkedIn: https://www.linkedin.com/in/usama-awol
 - GitHub: https://github.com/usamaawol
+- Telegram: https://t.me/UATech1
 
 ---
 
-## GitHub Activity
+## GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamaawol&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamaawol&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usamaawol&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/usamaawol/usamaawol/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </p>
 
 <p align="center"><i>Build with purpose. Learn continuously. Create meaningful impact.</i></p>
